@@ -1,0 +1,26 @@
+body {
+    background: rgb(30, 30, 30);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.videohtml {
+    margin: 0 auto;
+    text-align: center;
+}
+
+p, a {
+    color: #FFFF;
+    text-decoration: none;
+    text-align: center;
+}
+
+.back {
+    text-align: center;
+}
+
+

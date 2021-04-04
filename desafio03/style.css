@@ -1,0 +1,13 @@
+body {
+    background: rgb(30, 30, 30);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.video0102, .video0304 {
+    text-align: center;
+}
