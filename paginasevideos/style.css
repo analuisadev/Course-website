@@ -8,7 +8,7 @@ h1 {
     color: white;
 }
 
-.videohardware {
+.videohardware, .videohtml, .videojs, .videopython {
     margin: 0 auto;
     text-align: center;
 }
